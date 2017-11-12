@@ -1,0 +1,26 @@
+.profile-pic{
+  max-width: 100%;
+}
+.profile-title{
+	color: #dd139d;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+}
+h5{
+	color: #aa42f4;
+	font-size: 35px;
+	font-family: 'Marck Script', cursive;
+}
+.intro-paragraph{
+	font-size: 20px;
+	font-family: 'Permanent Marker', cursive;
+}
+
+body{
+    background-image: url("../img/333.jpg");
+}
+.video-card{
+	background-image: url("../img/233.jpg")
+}
