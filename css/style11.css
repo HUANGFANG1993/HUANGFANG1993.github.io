@@ -18,9 +18,12 @@ h5{
 	font-family: 'Permanent Marker', cursive;
 }
 
-html{
-    background-image: url("../img/233.jpg");
+body{
+    background-image: url("../img/333.jpg");
 }
 .video-card{
 	background-image: url("../img/233.jpg")
+}
+html{
+	 background-image: url("../img/333.jpg")
 }
